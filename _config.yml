@@ -1,11 +1,11 @@
 # site settings
 
-title: 広木宏 / h.hiromu
+title: 広木宏 / hiromu_dev
 description: Programmer / Writer
 taglong:
 tagshort:
-url:
-baseurl: ""
+url: "https://mgmyst.github.io"
+baseurl: "/aboutme"
 permalink: pretty
 repo: https://github.com/username/username.github.io
 
