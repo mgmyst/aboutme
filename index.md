@@ -4,7 +4,7 @@ title: Home
 ---
 
 ## Name
-hyaroy_pg
+広木宏 / hiromu_dev
 
 ## Job
 プログラマ / ライター
