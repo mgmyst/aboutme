@@ -3,16 +3,30 @@ layout: home
 title: Home
 ---
 
-# About
+## Name
+hyaroy_pg
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+## Job
+プログラマ / ライター
 
-This is the home page. It can be used for a short introduction. [Click here](/cv) to see the full CV, and [here](/cv.pdf) to download a print version. The theme also ships with a blog: [click here](/posts) to scroll posts from the most recent. Finally, [click here](/404) to see a page that can't be found.
+## Bio
+プログラマ。といっても小さな会社にいるので案件獲得以外はなんでもやっている。最近はAIリードエンジニアみたいなことも。
+昔は乙女ゲームのディレクターだった。副業で個人としてシステム開発を請けつつ、ゲーム会社時代の経験を活かしてライターとしても活動している。
 
-By default, the theme only contains these few pages in order to stay lean and flexible. However, it can be easily extended to accommodate more pages, [collections](https://jekyllrb.com/docs/collections/), [categories, and tags](https://jekyllrb.com/docs/posts/#tags-and-categories).
+## Skill
+- SpringBoot
+- Laravel
+- Nuxt.js
+- FastAPI
+- Kuroco
+- ライティング
+etc...
+  
+## Products
+[Linrs -音楽に携わる全ての職人のためのデータベース-](https://linrs.herokuapp.com/)
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+[MabatakiNews -ニュース速読-](http://mabataki-news-ce0544a64471.herokuapp.com/)
 
-Below is a list of blog posts included for illustrative purposes. Make sure to delete or modify them before deploying your website.
+[DMM Webサービス APIリファレンス](https://github.com/mgmyst/dmm-web-service-api-reference)
 
-{% include archive.html %}
+[ピナクルAPIドキュメント(日本語訳)](https://github.com/mgmyst/pinnacleapi-documentation-ja)
