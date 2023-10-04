@@ -2,9 +2,9 @@
 
 title: 広木宏 / h.hiromu
 description: Programmer / Writer
-taglong:
-tagshort:
-url:
+taglong: Jekyll theme for a beautiful online CV
+tagshort: Jekyll theme
+url: https://cvless.netlify.app
 baseurl: ""
 permalink: pretty
 repo: https://github.com/username/username.github.io
@@ -12,19 +12,19 @@ repo: https://github.com/username/username.github.io
 # author settings
 
 author:
-  name: h.hiromu
-  email: mgmyst@me.com
+  name: Place Holder
+  email: username@domain.com
 photo: /assets/jpg/photo.jpg
 
 # social media links
 
 social:
-  facebook:
-  github: mgmyst
-  instagram:
-  linkedin:
-  stackoverflow:
-  twitter: hirogi_dev
+  facebook: username
+  github: username
+  instagram: username
+  linkedin: username
+  stackoverflow: 0000000/username
+  twitter: username
 
 # build settings
 
