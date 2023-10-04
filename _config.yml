@@ -7,12 +7,12 @@ tagshort:
 url: https://mgmyst.github.io
 baseurl: /aboutme
 permalink: pretty
-repo: https://github.com/username/username.github.io
+repo: https://github.com/mgmyst/aboutme
 
 # author settings
 
 author:
-  name: h.hiromu
+  name: hiromu_dev
   email: mgmyst@me.com
 photo: /assets/jpg/photo.jpg
 
