@@ -14,7 +14,7 @@ repo: https://github.com/mgmyst/aboutme
 author:
   name: hiromu_dev
   email: mgmyst@me.com
-photo: /aboutme/assets/jpg/photo.jpg
+photo: assets/jpg/photo.jpg
 
 # social media links
 
