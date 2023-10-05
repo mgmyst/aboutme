@@ -50,7 +50,7 @@ title: Home
 □ アシスタントディレクター
 ![剣が君](assets/jpg/kenkimi.jpg)
 
-## Products
+## Others
 [Linrs -音楽に携わる全ての職人のためのデータベース-](https://linrs.herokuapp.com/)
 
 [MabatakiNews -ニュース速読-](http://mabataki-news-ce0544a64471.herokuapp.com/)
