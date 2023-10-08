@@ -7,28 +7,20 @@ title: Home
 広木宏 / hiromu_dev
 
 ## Job
-プログラマ / ライター
+ライター / プログラマ
 
 ## Career
-乙女ゲーム会社のディレクター/シナリオディレクターとして、コンシューマ/ソシャゲ/シチュCDなどの案件を担当する。
+乙女ゲーム会社のディレクター/ライターとして、コンシューマ/ソシャゲ/シチュCDなどの案件を担当する。
 その後、システム開発会社にプログラマとして転職。
 出向先企業にて評価され、転職オファーを受け現職。プログラマ/PM/AIリードとして職務にあたる。
 
 現在はプログラマとして働く傍らゲーム会社時代の経験を活かしてライターとしても活動。
 
 ## Skill
-### Programming
-![SpringBoot](https://leadingsoft.co.jp/wp-content/uploads/2020/06/spring-boot.png)
-![Laravel](https://cdn.icon-icons.com/icons2/2699/PNG/512/laravel_logo_icon_170314.png)
-![Nuxt](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Nuxt_logo_%282021%29.svg/2560px-Nuxt_logo_%282021%29.svg.png)
-![FastAPI](https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png)
-![Kuroco](https://kuroco.app/ja/kuroco-card.png)
-
-### Writing
 - WEB記事執筆
 - シナリオライティング
 - シチュエーションCD台本作成
-  
+ 
 ## Game/CD
 帝國スタァ シリーズ (女性向シチュエーションCD)
 □ ディレクター / シナリオディレクター / 一部本編シナリオ
@@ -49,6 +41,13 @@ title: Home
 ### 剣が君 (PC/Vita コンシューマ)
 □ アシスタントディレクター
 ![剣が君](assets/jpg/kenkimi.jpg)
+
+## Programming
+![SpringBoot](https://leadingsoft.co.jp/wp-content/uploads/2020/06/spring-boot.png)
+![Laravel](https://cdn.icon-icons.com/icons2/2699/PNG/512/laravel_logo_icon_170314.png)
+![Nuxt](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Nuxt_logo_%282021%29.svg/2560px-Nuxt_logo_%282021%29.svg.png)
+![FastAPI](https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png)
+![Kuroco](https://kuroco.app/ja/kuroco-card.png)
 
 ## Others
 [Linrs -音楽に携わる全ての職人のためのデータベース-](https://linrs.herokuapp.com/)
