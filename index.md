@@ -49,7 +49,7 @@ title: Home
 ![FastAPI](https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png)
 ![Kuroco](https://kuroco.app/ja/kuroco-card.png)
 
-## Others
+## Products
 [Linrs -音楽に携わる全ての職人のためのデータベース-](https://linrs.herokuapp.com/)
 
 [MabatakiNews -ニュース速読-](http://mabataki-news-ce0544a64471.herokuapp.com/)
